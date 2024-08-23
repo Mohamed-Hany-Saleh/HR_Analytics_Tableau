@@ -1,6 +1,3 @@
-Based on your Tableau dashboard and the previous context, here's a suggested content for the `README.md` file to describe your project:
-
----
 
 # HR Analytics Dashboard
 
