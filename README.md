@@ -50,7 +50,7 @@ This dashboard can be used by HR professionals and managers to:
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/Mohamed-Hany-Saleh/HR_Analytics_Tableau.git)
+   git clone https://github.com/Mohamed-Hany-Saleh/HR_Analytics_Tableau.git
    ```
 
 2. Open the Tableau file provided in the repository to interact with the dashboard.
