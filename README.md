@@ -57,10 +57,9 @@ This dashboard can be used by HR professionals and managers to:
 
 3. Analyze the insights generated from the dashboard and apply them to your HR strategies.
 
-## Screenshot
+## Dashboard
 
-![HR Analytics Dashboard](HR.png)
-
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/5c14ec69-42e9-4567-b42d-f682973efd39)
 
 ## Conclusion
 
