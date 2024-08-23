@@ -59,7 +59,7 @@ This dashboard can be used by HR professionals and managers to:
 
 ## Screenshot
 
-![HR Analytics Dashboard](HR.png)![HR Analytics Dashboard](https://github.com/user-attachments/assets/61dbbbf0-0d53-41dd-ba69-a1af14584f14)
+![HR Analytics Dashboard](HR.png)
 
 
 ## Conclusion
