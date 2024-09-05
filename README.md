@@ -1,29 +1,47 @@
 
 # HR Analytics Dashboard
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Project Overview
 
-This project focuses on analyzing HR data using Tableau to uncover key insights related to employee performance, department-specific trends, and gender distribution. These insights can help HR departments make informed decisions regarding promotions, gender balance, and overall employee performance.
+This project involves the analysis of HR data using Tableau to uncover key insights related to employee attrition, performance, income distribution, and overtime work. These insights are aimed at assisting HR departments in making informed decisions to enhance employee retention, satisfaction, and performance.
 
 ## Dashboard Description
 
-The HR Analytics Dashboard provides an in-depth view of the following key aspects:
+The HR Analytics Dashboard offers a detailed look at the following key aspects:
 
-1. **Employee Performance by Department and Job Role**:
-   - This stacked bar chart visualizes the performance ratings of employees across various departments and job roles, broken down by gender. It highlights the differences in performance between males and females in each role within departments like Research & Development, Sales, and Human Resources.
+1. **Attrition by Department**:
+   - This bar chart displays the count of employee attrition in different departments. It highlights that the Research & Development department has the highest attrition rate, while Human Resources experiences the lowest.
+
+2. **Performance Distribution by Gender Across Different Departments**:
+   - A stacked bar chart that visualizes performance ratings across departments (Human Resources, Research & Development, and Sales) and job roles. It shows the performance distribution between male and female employees, revealing any gender-related trends in performance.
+
+3. **Distribution of Monthly Income by Age Group**:
+   - This horizontal bar chart depicts how monthly income is distributed across various age groups. It allows for the identification of income trends among different age demographics.
+
+4. **Balancing Act: How Overtime Affects Job Satisfaction**:
+   - A pie chart visualizing the division of employees working overtime versus those who do not. This chart provides insights into the potential effects of overtime work on employee satisfaction.
+
+5. **Distribution of Overtime Rates Among Employees**:
+   - A bar chart illustrating the count of employees who work overtime versus those who don’t. This provides a clear view of the proportion of the workforce engaged in overtime.
 
 ## Key Insights
 
-- **Gender Performance Differences**: The visualization clearly shows that there are notable differences in performance between male and female employees in different job roles. For instance, in Research & Development, male employees tend to have higher performance ratings compared to their female counterparts, whereas in other departments like Sales, the distribution is more balanced.
+- **High Attrition in R&D**: The Research & Development department experiences a higher rate of attrition compared to other departments, suggesting a need for further investigation into employee satisfaction and workload.
+  
+- **Gender-Based Performance Trends**: Performance ratings show that, in most departments, male and female employees perform similarly, though specific roles like Research Scientist and Sales Executive show distinct differences in performance between genders.
 
-- **Performance Trends in Key Roles**: Research Scientists and Sales Executives stand out with the highest overall performance ratings across both genders, indicating a strong performance trend in these roles. However, further analysis might be needed to explore the factors driving these high-performance ratings.
+- **Income Distribution by Age**: Income distribution shows that older employees (46-55 and 55+) generally have higher monthly incomes, which is likely due to their increased experience and tenure.
+
+- **Overtime and Satisfaction**: The pie chart demonstrates that most employees (1,062) do not work overtime, while a smaller group (418) does. Understanding how overtime impacts job satisfaction and overall performance is critical for HR strategies.
 
 ## Usage
 
 This dashboard can be used by HR professionals and managers to:
 
-- **Monitor Gender Balance**: Track the performance of employees by gender in various departments to ensure gender equality in performance recognition and promotions.
-- **Enhance Department-Specific Strategies**: Identify areas where performance differences exist and develop strategies to support underperforming employees based on department and role.
+- Monitor attrition rates and investigate underlying causes in specific departments.
+- Ensure gender equity in performance evaluations and promotion opportunities.
+- Analyze income trends across different age groups to maintain fair compensation structures.
+- Track overtime work and its potential impact on employee satisfaction and productivity.
 
 ## How to Run the Project
 
@@ -38,10 +56,10 @@ This dashboard can be used by HR professionals and managers to:
 
 ## Dashboard
 
-![Employee Performance by Gender](https://github.com/user-attachments/assets/8f50eb2f-0f13-46a9-98d7-80a0b78e3120)
+![HR Analytics Dashboard 2](https://github.com/user-attachments/assets/8f50eb2f-0f13-46a9-98d7-80a0b78e3120)
 
 ## Conclusion
 
-The HR Analytics Dashboard offers valuable insights into employee performance based on gender and department, allowing HR professionals to develop more balanced strategies for promotions and performance recognition. By analyzing these insights, organizations can foster a more inclusive and fair work environment.
+The HR Analytics Dashboard delivers essential insights into employee performance, attrition, overtime, and income distribution. By leveraging these insights, organizations can enhance employee satisfaction, reduce attrition rates, and optimize performance across departments.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
